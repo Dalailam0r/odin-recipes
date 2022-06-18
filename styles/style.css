@@ -1,0 +1,40 @@
+/* stylesheet */
+
+html {
+    background-color: rgb(0, 5, 80);
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+}
+
+h1  {
+    color: rgb(255, 251, 0);
+    font-size: 50px;
+}
+
+h2 {
+    color:rgb(255, 251, 0);
+    font-size: 30px;
+}
+
+#beschreibung {
+    font-weight: bold;
+}
+
+#zutaten {
+    font-style: italic;
+    font-size: 18px;
+}
+
+#zubereitung {
+    font-size: 15px;
+}
+
+a {
+    color: rgb(255, 217, 0);
+    font-weight: bold;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
